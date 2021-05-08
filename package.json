@@ -51,7 +51,7 @@
     "gulp-conventional-changelog": "^2.0.19",
     "jest": "^24.8.0",
     "jest-environment-node-debug": "^2.0.0",
-    "ng-packagr": "^5.3.0",
+    "ng-packagr": "^10.1.1",
     "reflect-metadata": "^0.1.13",
     "require-dir": "^1.2.0",
     "rimraf": "^2.6.3",
